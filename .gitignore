@@ -40,7 +40,6 @@ conf.py
 
 # Bundled local-only runtimes
 vendor/
-tools/ffmpeg/
 
 # Frontend artifacts
 sau_frontend/node_modules/
