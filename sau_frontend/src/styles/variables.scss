@@ -1,0 +1,54 @@
+// Color tokens
+$primary-color: #3b63f6;
+$success-color: #16a36b;
+$warning-color: #f59e0b;
+$danger-color: #e5484d;
+$info-color: #64748b;
+
+// Text colors
+$text-primary: #111827;
+$text-regular: #475569;
+$text-secondary: #7b8aa0;
+$text-placeholder: #a7b2c3;
+
+// Border colors
+$border-base: #d7deea;
+$border-light: #e3e8f0;
+$border-lighter: #edf2f7;
+$border-extra-light: #f8fafd;
+
+// Background colors
+$bg-color: #ffffff;
+$bg-color-page: #f3f6fb;
+$bg-color-overlay: #ffffff;
+
+// Typography
+$font-size-extra-large: 20px;
+$font-size-large: 18px;
+$font-size-medium: 16px;
+$font-size-base: 14px;
+$font-size-small: 13px;
+$font-size-extra-small: 12px;
+
+// Spacing
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// Radius
+$border-radius-base: 8px;
+$border-radius-small: 6px;
+$border-radius-round: 20px;
+$border-radius-circle: 50%;
+
+// Shadows
+$box-shadow-base: 0 8px 20px rgba(21, 32, 51, 0.05);
+$box-shadow-dark: 0 18px 46px rgba(15, 23, 42, 0.18);
+$box-shadow-light: 0 8px 20px rgba(21, 32, 51, 0.05);
+
+// Z-index
+$z-index-normal: 1;
+$z-index-top: 1000;
+$z-index-popper: 2000;

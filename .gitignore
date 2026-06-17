@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Runtime data
+cookies/
+cookiesFile/
+logs/
+.logs/
+*.log
+*.out
+*.err
+tmp/
+videoFile/
+uploadFile/
+database.db
+db/database.db
+db/*.db
+db/*.sqlite*
+gui_config.json
+debug.log
+conf.py
+
+# Bundled local-only runtimes
+vendor/
+tools/ffmpeg/
+
+# Frontend artifacts
+sau_frontend/node_modules/
+sau_frontend/dist/
+sau_frontend/.vite/
+node_modules/
+dist/
+
+# Internal docs
+docs/superpowers/
+
+# Local demos
+*DEMO*.html
+*DEMO*.HTML
